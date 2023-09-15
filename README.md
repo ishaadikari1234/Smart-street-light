@@ -1,9 +1,9 @@
 # Smart-street-light
-##Overview:
+## Overview:
 The Smart Street Light System is a cutting-edge project that aims to revolutionize traditional street lighting by integrating advanced technologies to enhance energy efficiency, reduce costs, and improve overall urban infrastructure management. This project combines Internet of Things (IoT), sensors, and smart analytics to create an intelligent lighting network that adapts to real-time conditions and provides numerous benefits to cities, communities, and the environment.
 
 
-##Used 
+## Used 
 In this project I have used 
 1) Arduino Uno Board
 2) Jumper Wires
