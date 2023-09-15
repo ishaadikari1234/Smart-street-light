@@ -17,3 +17,8 @@ In this project I have used
 - **Remote Monitoring and Management**: Street lights can be remotely controlled and monitored, reducing maintenance costs and response times to faults.
 - **Energy Analytics**: Advanced analytics provide insights into energy consumption patterns, enabling data-driven decisions for further optimization.
 - **Smart City Integration**: The project seamlessly integrates with other smart city systems, contributing to holistic urban infrastructure management.
+
+## My Project
+
+https://github.com/ishaadikari1234/Smart-street-light/assets/106690183/b20b51e5-c440-4363-9c78-8fe4c65b85a1
+
